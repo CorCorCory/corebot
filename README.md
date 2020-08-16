@@ -1,0 +1,2 @@
+# corebot
+Core Currency Bot
